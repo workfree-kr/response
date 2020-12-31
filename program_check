@@ -1,1 +1,8 @@
-{"check":{"instagram_postUrl": {"user1": false}, "amazon": {"user1": true}, "instagram_userName": {"user1": true}, "naverCafeUserId": {"user1": true}, "watchmaxx": {"user1": true}}}
+{"check":{
+"instagram_postUrl": {"user1": false}, 
+"amazon": {"user1": true}, 
+"instagram_userName": {"user1": true}, 
+"naverCafeUserId": {"user1": true}, 
+"watchmaxx": {"user1": true},
+"naverShopping": {"user1": true},
+}}
