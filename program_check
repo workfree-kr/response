@@ -4,5 +4,6 @@
 "instagram_userName": {"user1": true}, 
 "naverCafeUserId": {"user1": true}, 
 "watchmaxx": {"user1": true},
-"naverShopping": {"user1": true}
+"naverShopping": {"user1": true},
+"naverInfluencer": {"user1": true},
 }}
