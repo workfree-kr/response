@@ -8,5 +8,6 @@
 "naverInfluencer": {"user1": true},
 "naverBlog": {"user1":true},
 "smartStore": {"user1":true},
-"instagramHashtag": {"user1":true}
+"instagramHashtag": {"user1":true},
+"instagram_comment": {"user1":true}
 }}
