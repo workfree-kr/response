@@ -10,5 +10,6 @@
 "smartStore": {"user1":true},
 "instagramHashtag": {"user1":true},
 "instagram_comment": {"user1":true},
-"instagram_hashtag_search": {"user1":true}
+"instagram_hashtag_search": {"user1":true},
+"facebook_user": {"user1":true}
 }}
